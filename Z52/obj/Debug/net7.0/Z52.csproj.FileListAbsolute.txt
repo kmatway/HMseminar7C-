@@ -1,0 +1,15 @@
+/Users/ekaterinamatveeva/C#/Новая папка/HMseminar7C-/Z52/obj/Debug/net7.0/Z52.csproj.AssemblyReference.cache
+/Users/ekaterinamatveeva/C#/Новая папка/HMseminar7C-/Z52/obj/Debug/net7.0/Z52.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ekaterinamatveeva/C#/Новая папка/HMseminar7C-/Z52/obj/Debug/net7.0/Z52.AssemblyInfoInputs.cache
+/Users/ekaterinamatveeva/C#/Новая папка/HMseminar7C-/Z52/obj/Debug/net7.0/Z52.AssemblyInfo.cs
+/Users/ekaterinamatveeva/C#/Новая папка/HMseminar7C-/Z52/obj/Debug/net7.0/Z52.csproj.CoreCompileInputs.cache
+/Users/ekaterinamatveeva/C#/Новая папка/HMseminar7C-/Z52/bin/Debug/net7.0/Z52
+/Users/ekaterinamatveeva/C#/Новая папка/HMseminar7C-/Z52/bin/Debug/net7.0/Z52.deps.json
+/Users/ekaterinamatveeva/C#/Новая папка/HMseminar7C-/Z52/bin/Debug/net7.0/Z52.runtimeconfig.json
+/Users/ekaterinamatveeva/C#/Новая папка/HMseminar7C-/Z52/bin/Debug/net7.0/Z52.dll
+/Users/ekaterinamatveeva/C#/Новая папка/HMseminar7C-/Z52/bin/Debug/net7.0/Z52.pdb
+/Users/ekaterinamatveeva/C#/Новая папка/HMseminar7C-/Z52/obj/Debug/net7.0/Z52.dll
+/Users/ekaterinamatveeva/C#/Новая папка/HMseminar7C-/Z52/obj/Debug/net7.0/refint/Z52.dll
+/Users/ekaterinamatveeva/C#/Новая папка/HMseminar7C-/Z52/obj/Debug/net7.0/Z52.pdb
+/Users/ekaterinamatveeva/C#/Новая папка/HMseminar7C-/Z52/obj/Debug/net7.0/Z52.genruntimeconfig.cache
+/Users/ekaterinamatveeva/C#/Новая папка/HMseminar7C-/Z52/obj/Debug/net7.0/ref/Z52.dll
